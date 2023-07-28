@@ -1,5 +1,6 @@
 # DNS ADS Blocker
-![DNSADS](https://raw.githubusercontent.com/proxytype/dns-ads-blocker/main/dns-ads-blocker.png)]
+![DNSADS](https://raw.githubusercontent.com/proxytype/dns-ads-blocker/main/dns-ads-blocker.png)
+<br>
 Block commercial advertising by creating a local DNS server to filter sites using a blacklist.
 
 
