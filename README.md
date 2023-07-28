@@ -1,6 +1,9 @@
 # DNS ADS Blocker
+![DNSADS](https://raw.githubusercontent.com/proxytype/dns-ads-blocker/main/dns-ads-blocker.png)](https://raw.githubusercontent.com/proxytype/dns-ads-blocker/main/dns-ads-blocker.png)
 Block commercial advertising by creating a local DNS server to filter sites using a blacklist.
-[![DNS-ADS](https://raw.githubusercontent.com/proxytype/PELoop/main/peloop1.png](https://raw.githubusercontent.com/proxytype/dns-ads-blocker/main/dns-ads-blocker.png)](https://raw.githubusercontent.com/proxytype/dns-ads-blocker/main/dns-ads-blocker.png)
+
+
+
 ## Requirements
 DNS Library by Mirza Kapetanovic - 7.0.0
 - https://www.nuget.org/packages/DNS/7.0.0
