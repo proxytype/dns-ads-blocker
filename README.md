@@ -1,7 +1,7 @@
 # DNS ADS Blocker
 ![DNSADS](https://raw.githubusercontent.com/proxytype/dns-ads-blocker/main/dns-ads-blocker.png)
 <br>
-Block commercial advertising by creating a local DNS server to filter sites using a blacklist.
+Upgrade your online sanctuary by crafting a local DNS server that moonlights as your digital bouncer, keeping intrusive commercial ads at bay. Customize your blacklist to wave goodbye to unwanted distractions and savor a smoother, ad-free cyber journey.
 
 
 
