@@ -9,7 +9,7 @@ Upgrade your online sanctuary by crafting a local DNS server that moonlights as 
 DNS Library by Mirza Kapetanovic - 7.0.0
 - https://www.nuget.org/packages/DNS/7.0.0
 
-## Custom Black list
-The black list combines two lists from well-known projects on GitHub.
+## Custom BlackList
+The blacklist combines two lists from well-known projects on GitHub.
  - https://github.com/anudeepND/blacklist
  - https://github.com/ewpratten/youtube_ad_blocklist/
